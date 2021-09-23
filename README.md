@@ -1,2 +1,2 @@
-# https://bilal74.github.io/Fashion-Blog/
 # Fashion-Blog-Website
+https://rpsingh6634.github.io/Fashion-Blog/
